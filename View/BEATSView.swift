@@ -9,7 +9,7 @@ import SwiftUI
 
 struct BEATSView: View {
     var body: some View {
-        Text("Hello cleo")
+        Text("Hello lucas")
     }
 }
 
